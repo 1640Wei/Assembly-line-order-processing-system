@@ -12,7 +12,7 @@ This project offers weather alerts for major Canadian cities, specifically sendi
 - **C++**: C++ programming language.  
 
 ### Project Structure:：
-- `Date.cpp`：
+- `D.cpp`：
 
 ### Example:
 
