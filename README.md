@@ -3,7 +3,7 @@ Hello, I am Wei. 📋
 
 ### Project Name: Assembly line order processing system
 
-### Date:  Aug 1, 2023
+### Date: Aug 1, 2023
 
 ### Description:
 
@@ -11,7 +11,16 @@ Hello, I am Wei. 📋
 - **C++**: C++ programming language.  
 
 ### Project Structure:：
-- `D.cpp`：
+- `CustomerOrder.cpp`：
+- `CustomerOrder.h`：
+- `LineManager.cpp`：
+- `LineManager.h`：
+- `Station.cpp`:
+- `Station.h`:
+- `Workstation.cpp`:
+- `Workstation.h`:
+- `Utilities.cpp`:
+- `Utilities.h`:
 
 ### Example:
 
@@ -20,7 +29,9 @@ Hello, I am Wei. 📋
 
 
 ### Update Log:
-- Version 1.0.0 (Aug 01, 2023)
+- Version 1.0.0 (Jul 07, 2023)
+- Version 1.1.0 (Jul 17, 2023)
+- Version 1.2.0 (Aug 01, 2023)
 
 ***
 ### Thanks:
